@@ -4,3 +4,4 @@ yayaya
 てすと２
 てすと３
 commitの説明の追加
+pullの説明追加
