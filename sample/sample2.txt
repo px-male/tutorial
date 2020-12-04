@@ -6,3 +6,4 @@ yayaya
 テスト４
 Addはステージに追加する
 commitを追加
+pullを追加
